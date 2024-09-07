@@ -1,4 +1,4 @@
-## Hi there 👋
+## WELCOME TO MY GIT HUB!
 
 <!--
 **Avapat17/Avapat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
