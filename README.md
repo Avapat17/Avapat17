@@ -1,5 +1,7 @@
 ## WELCOME TO MY GIT HUB!
 
+Pronouns- she/her
+Currently studying at the university of windsor for computer science
 <!--
 **Avapat17/Avapat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
